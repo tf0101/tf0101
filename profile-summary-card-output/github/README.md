@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tf0101/tf0101/main/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
